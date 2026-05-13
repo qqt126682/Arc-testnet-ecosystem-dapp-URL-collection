@@ -4,3 +4,5 @@ Security Tip🚨: It is recommended that you create a new EVM wallet to use the 
   ARC whitepaper：https://www.arc.network/arc-token-whitepaper
   
   Link to claim 20 USDC or EURC on the Arc test network：https://faucet.circle.com/
+
+A dapp that doesn't require an address for encrypted payments (security unknown,by x@paytag_)：https://paytagg.vercel.app/
