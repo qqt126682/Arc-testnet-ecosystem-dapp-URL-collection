@@ -9,64 +9,64 @@ A dapp that doesn't require an address for encrypted payments (security unknown,
 
 UnitFlow Finance
 Description: DEX where you can bridge, swap, add liquidity, and mint the Genesis Pass NFT.
-Website: unitflow.finance
+Website: https://unitflow.finance
 
 Flow on Arc
 Description: Faucet, swap, pool (add/remove liquidity), and lending & borrowing on Arc.
-Website: flowonarc.xyz
+Website: https://flowonarc.xyz
 
 Presto
 Description: Deploy, swap, bridge, use pools, and send tokens to other addresses.
-Website: prestodex-arc.vercel.app
+Website: https://prestodex-arc.vercel.app
 
 Arc Perp
 Description: Take trades, provide liquidity; bridging is not yet available.
-Website: arcperps.xyz
+Website: https://arcperps.xyz
 
 Arc World
 Description: Create passport, play games, create Arc virtual card, send tokens, mint Arcworld Key NFT, and use Arc Climate Pay.
-Website: arcworld.io
+Website: https://arcworld.io
 
 FlowFi
 Description: Deposit and withdraw repeatedly.
-Website: flowfi-three.vercel.app
+Website: https://flowfi-three.vercel.app
 
 Tower Exchange
 Description: Invite-only exchange for trading, bridging, swapping, and AI features; get invites from Discord @TowerExchange.
-Website: tower.exchange
+Website: https://tower.exchange
 
 ArcNS
 Description: Register .arc and .circle domains.
-Website: arcns-app.vercel.app
+Website: https://arcns-app.vercel.app
 
 FlowPay
 Description: Bridge and deploy.
-Website: flowpay-sand.vercel.app
+Website: https://flowpay-sand.vercel.app
 
 Infinity Name
 Description: Buy and trade domains on Arc.
-Website: infinityname.com/arc
+Website: https://infinityname.com/arc
 
 Omnihub
 Description: Create and mint NFTs, bridge & swap on Arc testnet.
-Website: omnihub.xyz/collection/arc…
+Website: https://omnihub.xyz/collection/arc (注：原路径含省略号，此为推测地址，请以官方为准)
 
 ZkCodex
 Description: GM streak, deploy contracts, use counter, mint NFT; make sure you’re on Arc testnet.
-Website: zkcodex.com/onchain/deploy
+Website: https://zkcodex.com/onchain/deploy
 
 Curve Finance
 Description: Bridge, swap, create pool, and use governance on Arc.
-Website: curve.finance/dex/arc/dashbo…
+Website: https://curve.finance/dex/arc/dashboard (注：根据片段“dashbo…”补全为 dashboard)
 
 Lunex
 Description: Bridge, swap, use pool, and yield vaults.
-Website: lunex.finance
+Website: https://lunex.finance
 
 Achswap
 Description: Bridge, add & remove liquidity, launch token, and use prediction market.
-Website: trade.achswap.app
+Website: https://trade.achswap.app
 
 Arc Crypto
 Description: Play game, participate in daily tournaments, top the leaderboard.
-Website: arccryptorace.xyz
+Website: https://arccryptorace.xyz
