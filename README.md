@@ -49,7 +49,7 @@ Website: https://infinityname.com/arc
 
 Omnihub
 Description: Create and mint NFTs, bridge & swap on Arc testnet.
-Website: https://omnihub.xyz/collection/arc 
+Website: https://omnihub.xyz/collection/arc-testnet/arc-omnihub
 
 ZkCodex
 Description: GM streak, deploy contracts, use counter, mint NFT; make sure you’re on Arc testnet.
