@@ -49,7 +49,7 @@ Website: https://infinityname.com/arc
 
 Omnihub
 Description: Create and mint NFTs, bridge & swap on Arc testnet.
-Website: https://omnihub.xyz/collection/arc (注：原路径含省略号，此为推测地址，请以官方为准)
+Website: https://omnihub.xyz/collection/arc 
 
 ZkCodex
 Description: GM streak, deploy contracts, use counter, mint NFT; make sure you’re on Arc testnet.
@@ -57,7 +57,7 @@ Website: https://zkcodex.com/onchain/deploy
 
 Curve Finance
 Description: Bridge, swap, create pool, and use governance on Arc.
-Website: https://curve.finance/dex/arc/dashboard (注：根据片段“dashbo…”补全为 dashboard)
+Website: https://curve.finance/dex/arc/dashboard 
 
 Lunex
 Description: Bridge, swap, use pool, and yield vaults.
